@@ -1,0 +1,22 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header {
+    text-align: center;
+}
+
+.background-image {
+    width: 100%;
+    height: auto;
+}
+
+.join-text {
+    font-size: 24px;
+    margin-top: 20px;
+    text-align: center; /* Assicura che il testo sia centrato anche internamente al suo elemento */
+}
